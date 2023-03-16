@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnricoZanetti
-- 👀 I’m interested in Data Science and Computer Sccince
-- 🌱 I’m currently learning Python and C
+- 👀 I’m interested in Data Science and Computer Science
+- 🌱 I’m currently learning Python and R
 - 📫 How to reach me:-> @paranoizan
 
 <!---

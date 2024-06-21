@@ -1,7 +1,6 @@
 # Hi there, I'm Enrico 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnricoZanetti&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnricoZanetti&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnricoZanetti&theme=dark)
 
 ## 🛠 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)

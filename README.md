@@ -19,6 +19,7 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=for-the-badge&logo=numpy)
 
 </div>
+
 ## 📫 How to reach me
 - LinkedIn: [Enrico Zanetti](https://www.linkedin.com/in/enrico-zanetti/)
 - Email: enricozanetti1998@gmail.com

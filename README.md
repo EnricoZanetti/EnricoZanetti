@@ -1,4 +1,4 @@
-
+Data Scientist and Data Science student passionate in Machine Learning and Deep Learning with a background in International Politics
 
 <!---
 EnricoZanetti/EnricoZanetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

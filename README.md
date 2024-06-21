@@ -1,4 +1,5 @@
-Data Scientist and Data Science student passionate in Machine Learning and Deep Learning with a background in International Politics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnricoZanetti&show_icons=true&theme=radical)
 
 <!---
 EnricoZanetti/EnricoZanetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

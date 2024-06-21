@@ -1,6 +1,10 @@
+<div align="center">
+
 # Enrico Zanetti
 
 ### Data Scientist 📈
+
+</div>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnricoZanetti&theme=dark)
 

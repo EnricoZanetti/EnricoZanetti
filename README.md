@@ -1,16 +1,17 @@
 # Hi there, I'm Enrico 👋
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnricoZanetti&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
 
 ## 🛠 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
-![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
-![Huggingface](https://img.shields.io/badge/-Huggingface-black?style=flat-square&logo=huggingface)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![R](https://img.shields.io/badge/-R-black?style=for-the-badge&logo=R)
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=for-the-badge&logo=scikit-learn)
+![Keras](https://img.shields.io/badge/-Keras-black?style=for-the-badge&logo=keras)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow)
+![Huggingface](https://img.shields.io/badge/-Huggingface-black?style=for-the-badge&logo=huggingface)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-black?style=for-the-badge&logo=numpy)
 
 ## 📫 How to reach me
 - LinkedIn: [Enrico Zanetti](https://www.linkedin.com/in/enrico-zanetti/)

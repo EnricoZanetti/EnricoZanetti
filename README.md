@@ -1,6 +1,6 @@
 # Hi there, I'm Enrico 👋
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnricoZanetti&theme=dark)
 
 ## 🛠 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)

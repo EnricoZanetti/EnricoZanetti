@@ -8,7 +8,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnricoZanetti&theme=dark)
 
-## 🛠 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/-R-black?style=for-the-badge&logo=R)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=for-the-badge&logo=scikit-learn)
@@ -19,6 +18,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=for-the-badge&logo=numpy)
 
+<\div>
 ## 📫 How to reach me
 - LinkedIn: [Enrico Zanetti](https://www.linkedin.com/in/enrico-zanetti/)
 - Email: enricozanetti1998@gmail.com

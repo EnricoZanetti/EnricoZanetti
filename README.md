@@ -4,7 +4,7 @@
 
 ### Data Scientist 📈
 
-</div>
+<div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnricoZanetti&theme=dark)
 

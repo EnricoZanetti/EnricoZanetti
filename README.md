@@ -2,11 +2,12 @@
 <h3 align="center">Data Scientist</h3>
 
 - 🎓 I have a Master’s degree in Data Science and a Bachelor’s degree in International Studies  
-- 🚀 I'm passionate about building stuff **AI, LLMs, Machine Learning**  
-- 📊 I work an **Data Scientist** at (HPA)[www.hpa.ai], focusing on AI apps and Machine Learning automations  
-- 🔭 Besides coding, I'm a gym rat, I play in the local football team and enjoy riding my motorbike.
+- 🚀 I'm passionate about building things with **AI, LLMs, and Machine Learning**.  
+- 📊 I work as **Data Scientist** at [HPA](www.hpa.ai), focusing on AI apps and ML-driven automations.
+- 🔭 Besides coding, I'm a gym bro, I play for my local football team, and I love riding my motorbike.
+- 💰 I'm also passionate about **personal finance**.  
 - 🌱 I’m currently working on some personal projects (details soon...)  
-- 👯 I’m open to collaborating on AI applications and innovative projects.
+- 👯 I’m open to collaborating on building applications or softwares.
 - 📫 You can reach me at **enricozanetti1998@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>

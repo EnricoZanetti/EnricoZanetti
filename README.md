@@ -53,7 +53,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/assets/logo.png" alt="langchain" width="40" height="40"/>
+    <img src="https://images.seeklogo.com/logo-png/61/1/langchain-icon-logo-png_seeklogo-611655.png" alt="langchain" width="40" height="40"/>
   </a>
 </p>
 

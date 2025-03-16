@@ -5,7 +5,7 @@
   
 - 📊 I work as a **Data Scientist** at [HPA](https://www.hpa.ai).
   
-- 🌱 I'm actively learning both backend and frontend frameworks (details soon...).
+- 🌱 I'm currently working on personal projects (details soon...).
   
 - 🔭 Besides coding, I'm a **gym bro**, I play for my local football team, and I love riding my motorbike.
   

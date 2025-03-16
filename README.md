@@ -3,7 +3,7 @@
 
 - 🎓 I have a **Master’s degree in Data Science** and a **Bachelor’s degree in International Studies** at [UniTn](https://www.unitn.it/en).
   
-- 📊 I work as a **Data & AI Engineer** at [HPA](https://www.hpa.ai), focusing on **AI applications, backend development, and database management**.
+- 📊 I work as a **Data Scientist** at [HPA](https://www.hpa.ai), focusing on **AI applications, backend development, and database management**.
   
 - 🌱 I'm actively expanding my skill set to build and deploy projects independently — learning both backend and frontend frameworks (details soon...).
   

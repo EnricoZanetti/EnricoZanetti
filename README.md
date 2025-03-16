@@ -6,12 +6,8 @@
 - 📊 I work as a **Data Scientist** at [HPA](https://www.hpa.ai).
   
 - 🌱 I'm currently working on personal projects (details soon...).
-  
-- 🔭 Besides coding, I'm a **gym bro**, I play for my local football team, and I love riding my motorbike.
-  
-- 💰 I'm also passionate about **personal finance**.
-  
-- 👯 I’m open to collaborating on **building apps and AI-driven projects**.
+      
+- 🤝🏻 I’m open to collaborating on **building apps and AI-driven projects**.
 
 - 📫 You can reach me at **enricozanetti1998@gmail.com**.  
 

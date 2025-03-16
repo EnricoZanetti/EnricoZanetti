@@ -1,4 +1,4 @@
-<h1 align="center">Ciao! I'm Enrico Zanetti :)</h1>
+<h1 align="center">Ciao! I'm Enrico :)</h1>
 <h3 align="center">AI & Backend Engineer | Full-Stack in Progress</h3>
 
 - 🎓 I have a **Master’s degree in Data Science** at [UniTn](https://www.unitn.it/en).

@@ -1,9 +1,9 @@
-<h1 align="center">Ciao! I'm Enrico Zanetti</h1>
+<h1 align="center">Ciao! I'm Enrico Zanetti :)</h1>
 <h3 align="center">Data Scientist</h3>
 
 - 🎓 I have a Master’s degree in Data Science and a Bachelor’s degree in International Studies  
-- 🚀 I'm passionate about **AI, LLMs, Machine Learning**  
-- 📊 I work full-time as an **Data Scientist**, focusing on AI apps and Machine Learning automations  
+- 🚀 I'm passionate about building stuff **AI, LLMs, Machine Learning**  
+- 📊 I work an **Data Scientist** at (HPA)[www.hpa.ai], focusing on AI apps and Machine Learning automations  
 - 🔭 Besides coding, I'm a gym rat, I play in the local football team and enjoy riding my motorbike.
 - 🌱 I’m currently working on some personal projects (details soon...)  
 - 👯 I’m open to collaborating on AI applications and innovative projects.

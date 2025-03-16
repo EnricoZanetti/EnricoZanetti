@@ -41,6 +41,6 @@
   </a> 
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EnricoZanetti&theme=dark" width="48%" >
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EnricoZanetti&theme=dark" width="48%" >
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EnricoZanetti&show_icons=true&locale=en" alt="EnricoZanetti" /></p>

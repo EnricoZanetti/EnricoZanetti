@@ -39,12 +39,21 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/assets/logo.png" alt="langchain" width="40" height="40"/>
+  </a>
 </p>
 
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnricoZanetti&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EnricoZanetti&show_icons=true&locale=en" alt="EnricoZanetti" /></p>
-  
-</div>

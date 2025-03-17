@@ -3,7 +3,7 @@
 
 - 🎓 I have a **Master’s degree in Data Science** at [UniTn](https://www.unitn.it/en).
   
-- 📊 I work as a **Data Scientist** at [HPA](https://www.hpa.ai).
+- 📊 I work as a **Data Scientist** at [HPA | High Performance Analytics](https://www.hpa.ai).
   
 - 🌱 I'm currently working on personal projects (details soon...).
       

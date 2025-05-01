@@ -1,13 +1,13 @@
-<h1 align="center">Ciao! I'm Enrico :)</h1>
+<h1 align="center">Ciao! I'm Enrico 🥷🏻</h1>
 <h3 align="center">Data Scientist | Full-Stack in Progress</h3>
 
-- I have a **Master’s degree in Data Science** at [UniTn](https://www.unitn.it/en).
+I have a **Master’s degree in Data Science** at [UniTn](https://www.unitn.it/en).
   
-- I work as a **Data Scientist** at [HPA](https://www.hpa.ai).
+I work as a **Data Scientist** at [HPA](https://www.hpa.ai).
   
-- Currently working on personal projects (details soon...).
+Currently working on personal projects (details soon...).
 
-- Got an idea? Reach me at **enricozanetti1998@gmail.com**.  
+Got an idea? Reach me at **enricozanetti1998@gmail.com**.  
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 

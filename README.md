@@ -5,8 +5,6 @@ I work as a **Data Scientist** at [HPA](https://www.hpa.ai).
 
 I have a **Master’s degree in Data Science** at [UniTn](https://www.unitn.it/en).
 
-Currently developing [FinTrack](https://github.com/EnricoZanetti/fintrack), a personal project for automated finance tracking.
-
 Got an idea? Reach me at **enricozanetti1998@gmail.com**.  
 
 <h3 align="left">Languages and Tools</h3>

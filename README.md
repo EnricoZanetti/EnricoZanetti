@@ -5,7 +5,7 @@ I work as **Data Scientist** at [HPA](https://www.hpa.ai)
 
 I have a **Master’s degree in Data Science** at [UniTn](https://www.unitn.it/en)
 
-[Leetcode]([https://github.com/enricozanetti/leetcode](https://github.com/EnricoZanetti/leetcode)) on the grind.
+[Leetcode](https://github.com/enricozanetti/leetcode) on the grind.
 
 Got an idea? Reach me at **enricozanetti1998@gmail.com**
 

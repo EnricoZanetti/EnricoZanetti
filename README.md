@@ -3,7 +3,7 @@
 
 I work as a **Data Scientist** at [HPA · High Performance Analytics](https://www.hpa.ai), where I build AI-driven solutions for automation and decision support.
 
-I have a **Master’s degree in Data Science** from [UniTn](https://www.unitn.it/en) — you can find here my [master's thesis](https://github.com/EnricoZanetti/RAG-Personalization-LLM-Evaluation).
+I have a **Master’s degree in Data Science** from [UniTn](https://www.unitn.it/en) — you can find here my [Master's thesis](https://github.com/EnricoZanetti/RAG-Personalization-LLM-Evaluation).
 
 [LeetCode](https://github.com/enricozanetti/leetcode) on the grind.
 

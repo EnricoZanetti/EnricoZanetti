@@ -1,7 +1,7 @@
 <h1 align="center">Ciao! I'm Enrico 🥷🏻</h1>
 <h3 align="center">Data Scientist | Full-Stack in Progress</h3>
 
-I work as a **Data Scientist** at [HPA · High Performance Analytics](https://www.hpa.ai), where I build AI-driven solutions for automation and decision support.
+I work as a **Data Scientist** at [HPA | High Performance Analytics](https://www.hpa.ai), where I build AI-driven solutions.
 
 I have a **Master’s degree in Data Science** from [UniTn](https://www.unitn.it/en) — you can find here my [Master's thesis](https://github.com/EnricoZanetti/RAG-Personalization-LLM-Evaluation).
 

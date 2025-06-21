@@ -1,7 +1,7 @@
 <h1 align="center">Ciao! I'm Enrico 🥷🏻</h1>
 <h3 align="center">Data Scientist | Full-Stack in Progress</h3>
 
-I work as **Data Scientist** at [HPA](https://www.hpa.ai)
+I work as **Data Scientist** at [HPA | High Performance Analytics](https://www.hpa.ai)
 
 I have a **Master’s degree in Data Science** at [UniTn](https://www.unitn.it/en)
 

@@ -42,10 +42,6 @@ Got an idea or want to collaborate? Reach me at **enricozanetti1998@gmail.com**
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
   </a>

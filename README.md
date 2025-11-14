@@ -3,11 +3,11 @@
 
 I work as **Software Engineer** at [HPA | High Performance Analytics](https://www.hpa.ai), where I build AI-driven solutions.
 
-I have a **Master’s degree in Data Science** from the [University of Trento](https://www.unitn.it/en) — you can find here my [Master's thesis](https://github.com/EnricoZanetti/RAG-Personalization-LLM-Evaluation).
+I have a **Master’s degree in Data Science** from the [University of Trento](https://www.unitn.it/en) - you can find here my [Master's thesis](https://github.com/EnricoZanetti/RAG-Personalization-LLM-Evaluation).
 
-Particularly passionate about **Machine Learning and NLP** — some projects here: [1](https://github.com/EnricoZanetti/Embedded-EmotionNN), [2](https://github.com/EnricoZanetti/wisdomGPT), [3](https://github.com/EnricoZanetti/neural-machine-translation), [4](https://github.com/EnricoZanetti/Word2VecSA), [5](https://github.com/EnricoZanetti/wesvd), [6](https://github.com/EnricoZanetti/neural-dependency-parser), [7](https://github.com/EnricoZanetti/face-recon-intro-machine-learning)
+Particularly passionate about **Machine Learning and NLP** - some projects here: [1](https://github.com/EnricoZanetti/Embedded-EmotionNN), [2](https://github.com/EnricoZanetti/wisdomGPT), [3](https://github.com/EnricoZanetti/neural-machine-translation), [4](https://github.com/EnricoZanetti/Word2VecSA), [5](https://github.com/EnricoZanetti/wesvd), [6](https://github.com/EnricoZanetti/neural-dependency-parser), [7](https://github.com/EnricoZanetti/face-recon-intro-machine-learning)
 
-Also exploring **AI Agents** — check out: [1](https://github.com/EnricoZanetti/gaia-ai-agent)
+Also exploring **AI Agents** - check out: [1](https://github.com/EnricoZanetti/gaia-ai-agent)
 
 
 Got an idea or want to collaborate? Reach me at **enricozanetti1998@gmail.com**

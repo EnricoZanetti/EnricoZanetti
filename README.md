@@ -1,7 +1,7 @@
 <h1 align="center">Ciao! I'm Enrico 🥷🏻</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">AI Engineer</h3>
 
-I work as **Software Engineer** at [HPA | High Performance Analytics](https://www.hpa.ai), where I build AI-driven solutions.
+I work as **AI Engineer** at [HPA | High Performance Analytics](https://www.hpa.ai), where I build AI-driven solutions.
 
 I have a **Master’s degree in Data Science** from the [University of Trento](https://www.unitn.it/en) - you can find here my [Master's thesis](https://github.com/EnricoZanetti/RAG-Personalization-LLM-Evaluation).
 

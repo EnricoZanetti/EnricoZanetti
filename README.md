@@ -50,8 +50,8 @@ Got an idea or want to collaborate? Reach me at **enricozanetti1998@gmail.com**
     <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" alt="langchain" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/html.svg" alt="html" width="40" height="40"/> 
-  </a>  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
 </p>
 

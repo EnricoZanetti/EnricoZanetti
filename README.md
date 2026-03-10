@@ -21,7 +21,7 @@ I'm deeply passionate about **Machine Learning**, **NLP**, and **AI Agents**.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### Machine Learning & NLP
 
@@ -70,8 +70,6 @@ I'm deeply passionate about **Machine Learning**, **NLP**, and **AI Agents**.
 </div>
 
 ---
-
-### 📊 GitHub Stats
 
 <div align="center">
 

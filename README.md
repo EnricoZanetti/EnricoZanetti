@@ -11,13 +11,13 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I'm an **AI Engineer** at [Terranova Software](https://www.terranovasoftware.eu/), where I design and build AI-driven solutions that solve real problems.
 
 I hold a **Master's degree in Data Science** from the [University of Trento](https://www.unitn.it/en) - my thesis explored the intersection of **RAG, Personalization, and LLM Evaluation**. You can check it out [here](https://github.com/EnricoZanetti/RAG-Personalization-LLM-Evaluation).
 
-I'm deeply passionate about **Machine Learning**, **NLP**, and the rapidly evolving world of **AI Agents**.
+I'm deeply passionate about **Machine Learning**, **NLP**, and **AI Agents**.
 
 ---
 
@@ -43,7 +43,7 @@ I'm deeply passionate about **Machine Learning**, **NLP**, and the rapidly evolv
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -84,7 +84,5 @@ I'm deeply passionate about **Machine Learning**, **NLP**, and the rapidly evolv
 <div align="center">
 
 **💡 Got an idea or want to collaborate? Let's talk!**
-
-[![Email](https://img.shields.io/badge/Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enricozanetti1998@gmail.com)
 
 </div>

@@ -1,61 +1,91 @@
-<h1 align="center">Ciao! I'm Enrico 🥷🏻</h1>
-<h3 align="center">AI Engineer</h3>
+<div align="center">
 
-I work as **AI Engineer** at [Terranova Software](https://www.terranovasoftware.eu/), where I build AI-driven solutions.
+# Hey there, I'm Enrico 🥷🏻
 
-I have a **Master’s degree in Data Science** from the [University of Trento](https://www.unitn.it/en) - you can find here my [Master's thesis](https://github.com/EnricoZanetti/RAG-Personalization-LLM-Evaluation).
+### AI Engineer
 
-Particularly passionate about **Machine Learning and NLP** - some projects here: [1](https://github.com/EnricoZanetti/Embedded-EmotionNN), [2](https://github.com/EnricoZanetti/wisdomGPT), [3](https://github.com/EnricoZanetti/neural-machine-translation), [4](https://github.com/EnricoZanetti/Word2VecSA), [5](https://github.com/EnricoZanetti/wesvd), [6](https://github.com/EnricoZanetti/neural-dependency-parser), [7](https://github.com/EnricoZanetti/face-recon-intro-machine-learning)
+[![Email](https://img.shields.io/badge/Email-enricozanetti1998%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:enricozanetti1998@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/enricozanetti)
 
-Also exploring **AI Agents** - check out: [1](https://github.com/EnricoZanetti/gaia-ai-agent)
+</div>
 
+---
 
-Got an idea or want to collaborate? Reach me at **enricozanetti1998@gmail.com**
+### 🧠 About Me
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
-  </a>  
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" alt="langchain" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-</p>
+I'm an **AI Engineer** at [Terranova Software](https://www.terranovasoftware.eu/), where I design and build AI-driven solutions that solve real problems.
 
+I hold a **Master's degree in Data Science** from the [University of Trento](https://www.unitn.it/en) - my thesis explored the intersection of **RAG, Personalization, and LLM Evaluation**. You can check it out [here](https://github.com/EnricoZanetti/RAG-Personalization-LLM-Evaluation).
+
+I'm deeply passionate about **Machine Learning**, **NLP**, and the rapidly evolving world of **AI Agents**.
+
+---
+
+### 🚀 Featured Projects
+
+#### Machine Learning & NLP
+
+| Project | Description |
+|---------|-------------|
+| [**Embedded-EmotionNN**](https://github.com/EnricoZanetti/Embedded-EmotionNN) | Emotion recognition with neural networks on embedded systems |
+| [**wisdomGPT**](https://github.com/EnricoZanetti/wisdomGPT) | GPT-powered knowledge extraction and generation |
+| [**Neural Machine Translation**](https://github.com/EnricoZanetti/neural-machine-translation) | Seq2seq models for language translation |
+| [**Word2VecSA**](https://github.com/EnricoZanetti/Word2VecSA) | Sentiment analysis using Word2Vec embeddings |
+| [**WeSVD**](https://github.com/EnricoZanetti/wesvd) | Word embedding with SVD techniques |
+| [**Neural Dependency Parser**](https://github.com/EnricoZanetti/neural-dependency-parser) | Neural approach to syntactic dependency parsing |
+| [**Face Recognition**](https://github.com/EnricoZanetti/face-recon-intro-machine-learning) | Facial recognition as an intro to ML |
+
+#### AI Agents
+
+| Project | Description |
+|---------|-------------|
+| [**GAIA AI Agent**](https://github.com/EnricoZanetti/gaia-ai-agent) | Autonomous AI agent for general assistant tasks |
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=EnricoZanetti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EnricoZanetti&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+---
+
+<div align="center">
+
+**💡 Got an idea or want to collaborate? Let's talk!**
+
+[![Email](https://img.shields.io/badge/Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enricozanetti1998@gmail.com)
+
+</div>

@@ -75,6 +75,8 @@ I'm deeply passionate about **Machine Learning**, **NLP**, and **AI Agents**.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnricoZanetti&theme=tokyonight&hide_border=true" height="165" />
 
+![Enrico's GitHub Stats](https://github-readme-stats-tau-nine-81.vercel.app/api?username=EnricoZanetti&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=tokyonight&border_color=45475a)
+
 </div>
 
 ---

@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey there, I'm Enrico 🥷🏻
+# Hi, I'm Enrico 🥷🏻
 
-### AI Engineer
+## AI Engineer
 
 [![Email](https://img.shields.io/badge/Email-enricozanetti1998%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:enricozanetti1998@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/enrico-zanetti)

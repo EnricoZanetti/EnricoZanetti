@@ -27,7 +27,7 @@ I'm deeply passionate about **Machine Learning**, **NLP**, and **AI Agents**.
 
 | Project | Description |
 |---------|-------------|
-| [**Embedded-EmotionNN**](https://github.com/EnricoZanetti/Embedded-EmotionNN) | Emotion recognition with neural networks on embedded systems |
+| [**MoodStream**](https://github.com/EnricoZanetti/moodstream) | Emotion recognition with neural networks on embedded systems |
 | [**wisdomGPT**](https://github.com/EnricoZanetti/wisdomGPT) | GPT-powered knowledge extraction and generation |
 | [**Neural Machine Translation**](https://github.com/EnricoZanetti/neural-machine-translation) | Seq2seq models for language translation |
 | [**Word2VecSA**](https://github.com/EnricoZanetti/Word2VecSA) | Sentiment analysis using Word2Vec embeddings |

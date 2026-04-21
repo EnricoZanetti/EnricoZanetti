@@ -6,6 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-enricozanetti1998%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:enricozanetti1998@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/enrico-zanetti)
+[My Personal Website](https://enricozanetti.dev/)
 
 </div>
 
@@ -13,33 +14,11 @@
 
 ### About Me
 
-I'm an **AI Engineer** at [Terranova Software](https://www.terranovasoftware.eu/), where I design and build AI-driven solutions that solve real problems.
+I'm an **AI Engineer** based in Trento, Italy, working at [Terranova Software](https://www.terranovasoftware.eu/), where I design and build AI-driven solutions that solve real problems.
 
 I hold a **Master's degree in Data Science** from the [University of Trento](https://www.unitn.it/en) - my thesis explored the intersection of **RAG, Personalization, and LLM Evaluation**. You can check it out [here](https://github.com/EnricoZanetti/RAG-Personalization-LLM-Evaluation).
 
 I'm deeply passionate about **Machine Learning**, **NLP**, and **AI Agents**.
-
----
-
-### Featured Projects
-
-#### Machine Learning & NLP
-
-| Project | Description |
-|---------|-------------|
-| [**MoodStream**](https://github.com/EnricoZanetti/moodstream) | Emotion recognition with neural networks on embedded systems |
-| [**wisdomGPT**](https://github.com/EnricoZanetti/wisdomGPT) | GPT-powered knowledge extraction and generation |
-| [**Neural Machine Translation**](https://github.com/EnricoZanetti/neural-machine-translation) | Seq2seq models for language translation |
-| [**Word2VecSA**](https://github.com/EnricoZanetti/Word2VecSA) | Sentiment analysis using Word2Vec embeddings |
-| [**WeSVD**](https://github.com/EnricoZanetti/wesvd) | Word embedding with SVD techniques |
-| [**Neural Dependency Parser**](https://github.com/EnricoZanetti/neural-dependency-parser) | Neural approach to syntactic dependency parsing |
-| [**Face Recognition**](https://github.com/EnricoZanetti/face-recon-intro-machine-learning) | Facial recognition as an intro to ML |
-
-#### AI Agents
-
-| Project | Description |
-|---------|-------------|
-| [**GAIA AI Agent**](https://github.com/EnricoZanetti/gaia-ai-agent) | Autonomous AI agent for general assistant tasks |
 
 ---
 

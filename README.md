@@ -2,9 +2,11 @@
 
 # Hi, I'm Enrico
 
+**AI Engineer** · Trento, Italy
+
 [![Email](https://img.shields.io/badge/Email-enricozanetti1998%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:enricozanetti1998@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/enrico-zanetti)
-[My Personal Website](https://enricozanetti.dev/)
+[![Website](https://img.shields.io/badge/Website-enricozanetti.dev-4157F6?style=flat-square&logo=astro&logoColor=white)](https://enricozanetti.dev/)
 
 </div>
 
@@ -12,11 +14,19 @@
 
 ### About Me
 
-I'm an **AI Engineer** based in Trento, Italy, working at [Terranova Software](https://www.terranovasoftware.eu/), where I design and build AI-driven solutions that solve real problems.
+I'm an **AI Engineer** at [Terranova Software](https://www.terranovasoftware.eu/), where I design and build AI-driven solutions end-to-end - from LLM and RAG pipelines to production APIs and React frontends.
 
-I hold a **Master's degree in Data Science** from the [University of Trento](https://www.unitn.it/en) - my thesis explored the intersection of **RAG, Personalization, and LLM Evaluation**. You can check it out [here](https://github.com/EnricoZanetti/RAG-Personalization-LLM-Evaluation).
+I hold a **Master's degree in Data Science** from the [University of Trento](https://www.unitn.it/en), with a [thesis](https://github.com/EnricoZanetti/RAG-Personalization-LLM-Evaluation) on RAG-based personalization and LLM evaluation for AI chatbots.
 
-I'm deeply passionate about **Machine Learning**, **NLP**, and **AI Agents**.
+My focus sits at the intersection of **Machine Learning**, **Natural Language Processing**, and **AI Agents**.
+
+---
+
+### What I Work On
+
+- **LLMs & RAG** - building and evaluating retrieval-augmented systems for real enterprise use cases
+- **AI Agents** - designing autonomous agents that reason, plan, and execute multi-step tasks
+- **Production AI** - end-to-end delivery: API design, async task orchestration, and frontend integration
 
 ---
 
@@ -24,27 +34,49 @@ I'm deeply passionate about **Machine Learning**, **NLP**, and **AI Agents**.
 
 <div align="center">
 
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 **AI / ML**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logoColor=white)
 
-**DevOps & Tools**
+**Backend**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
+
+---
+
+### Certifications & Courses
+
+| Course | Institution | Year |
+|--------|-------------|------|
+| [Natural Language Processing with Deep Learning: XCS224N](https://digitalcredential.stanford.edu/check/98A0CE46CE1B7A90312831D548296610D457DEB7A89324045BD55C6AF31BE933WXVwdDB5a2ZNdWR2dlpuUWJWOW1mOTF4VldTUTVpL0ErODlsNE9FS1ZSSjNyWGxW) | Stanford University | 2024 |
+| [AI Agents Fundamentals](https://drive.google.com/file/d/1kn07Z6BaAJX0_0oCzYBkHM7UV3JmotNt/view) | Hugging Face | 2025 |
+| [Responsive Web Design](https://www.freecodecamp.org/certification/enricozanetti/responsive-web-design-v9) | freeCodeCamp | 2026 |
 
 ---
 
@@ -60,6 +92,6 @@ I'm deeply passionate about **Machine Learning**, **NLP**, and **AI Agents**.
 
 <div align="center">
 
-**💡 Got an idea or want to collaborate? Let's talk!**
+**Got an idea or want to collaborate? Let's talk.**
 
 </div>

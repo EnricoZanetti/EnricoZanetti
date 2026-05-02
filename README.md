@@ -14,7 +14,7 @@
 
 ### About Me
 
-I'm an **AI Engineer** at [Terranova Software](https://www.terranovasoftware.eu/), where I design and build AI-driven solutions end-to-end - from LLM and RAG pipelines to production APIs and React frontends.
+I'm an **AI Engineer** at [Terranova Software](https://www.terranovasoftware.eu/), where I design and build AI-driven solutions end-to-end.
 
 I hold a **Master's degree in Data Science** from the [University of Trento](https://www.unitn.it/en), with a [thesis](https://github.com/EnricoZanetti/RAG-Personalization-LLM-Evaluation) on RAG-based personalization and LLM evaluation for AI chatbots.
 
@@ -24,9 +24,9 @@ My focus sits at the intersection of **Machine Learning**, **Natural Language Pr
 
 ### What I Work On
 
-- **LLMs & RAG** - building and evaluating retrieval-augmented systems for real enterprise use cases
-- **AI Agents** - designing autonomous agents that reason, plan, and execute multi-step tasks
-- **Production AI** - end-to-end delivery: API design, async task orchestration, and frontend integration
+- **LLMs & RAG**: building and evaluating retrieval-augmented systems for real enterprise use cases
+- **AI Agents**: designing autonomous agents that reason, plan, and execute multi-step tasks
+- **Production AI**: end-to-end delivery: API design, async task orchestration, and frontend integration
 
 ---
 
@@ -67,16 +67,6 @@ My focus sits at the intersection of **Machine Learning**, **Natural Language Pr
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
-
----
-
-### Certifications & Courses
-
-| Course | Institution | Year |
-|--------|-------------|------|
-| [Natural Language Processing with Deep Learning: XCS224N](https://digitalcredential.stanford.edu/check/98A0CE46CE1B7A90312831D548296610D457DEB7A89324045BD55C6AF31BE933WXVwdDB5a2ZNdWR2dlpuUWJWOW1mOTF4VldTUTVpL0ErODlsNE9FS1ZSSjNyWGxW) | Stanford University | 2024 |
-| [AI Agents Fundamentals](https://drive.google.com/file/d/1kn07Z6BaAJX0_0oCzYBkHM7UV3JmotNt/view) | Hugging Face | 2025 |
-| [Responsive Web Design](https://www.freecodecamp.org/certification/enricozanetti/responsive-web-design-v9) | freeCodeCamp | 2026 |
 
 ---
 

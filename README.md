@@ -4,6 +4,8 @@
 
 **AI Engineer** · Trento, Italy
 
+<img src="https://streak-stats-phi.vercel.app/?user=EnricoZanetti&theme=dark&hide_border=true" height="165"/>
+
 [![Email](https://img.shields.io/badge/Email-ezan%40enricozanetti.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ezan@enricozanetti.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/enrico-zanetti)
 [![Website](https://img.shields.io/badge/Website-enricozanetti.dev-4157F6?style=flat-square&logo=astro&logoColor=white)](https://enricozanetti.dev/)

@@ -8,6 +8,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/enrico-zanetti)
 [![Website](https://img.shields.io/badge/Website-enricozanetti.dev-4157F6?style=flat-square&logo=astro&logoColor=white)](https://enricozanetti.dev/)
 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EnricoZanetti&theme=github-dark&hide_border=true&area=true"/>
+
+
 </div>
 
 ---

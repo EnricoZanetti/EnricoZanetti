@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ### About Me
 
 I'm an **AI Engineer** at [Terranova Software](https://www.terranovasoftware.eu/), where I design and build AI-driven solutions end-to-end.
@@ -67,17 +65,6 @@ My focus sits at the intersection of **Machine Learning**, **Natural Language Pr
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EnricoZanetti&theme=tokyonight&hide_border=true" height="165" />
-
-![Enrico's GitHub Stats](https://github-readme-stats-tau-nine-81.vercel.app/api?username=EnricoZanetti&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=tokyonight&border_color=45475a)
-
-</div>
-
 ---
 
 <div align="center">

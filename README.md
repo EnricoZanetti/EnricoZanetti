@@ -65,10 +65,3 @@ My focus sits at the intersection of **Machine Learning**, **Natural Language Pr
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
----
-
-<div align="center">
-
-**Got an idea or want to collaborate? Let's talk.**
-
-</div>

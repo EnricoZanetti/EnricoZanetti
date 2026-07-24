@@ -4,9 +4,9 @@
 
 **AI Engineer** · Trento, Italy
 
+[![Website](https://img.shields.io/badge/Website-enricozanetti.dev-4157F6?style=flat-square&logo=astro&logoColor=white)](https://enricozanetti.dev/)
 [![Email](https://img.shields.io/badge/Email-ezan%40enricozanetti.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ezan@enricozanetti.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/enrico-zanetti)
-[![Website](https://img.shields.io/badge/Website-enricozanetti.dev-4157F6?style=flat-square&logo=astro&logoColor=white)](https://enricozanetti.dev/)
 
 </div>
 
@@ -34,12 +34,12 @@ Right now I'm particularly focused on **multi-agent architectures**.
 
 **AI / ML**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 **Backend**
 

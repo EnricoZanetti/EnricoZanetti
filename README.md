@@ -10,16 +10,6 @@
 
 </div>
 
-### About Me
-
-I'm an **AI Engineer** at [Terranova Software](https://www.terranovasoftware.eu/), where I design and build AI-driven solutions end-to-end.
-
-I hold a **Master's degree in Data Science** from the [University of Trento](https://www.unitn.it/en), with a [thesis](https://github.com/EnricoZanetti/RAG-Personalization-LLM-Evaluation) on RAG-based personalization and LLM evaluation for AI chatbots.
-
-Right now I'm particularly focused on **multi-agent architectures**.
-
----
-
 ### What I Work On
 
 - **LLMs & RAG**: designing, building, and evaluating retrieval-augmented systems for enterprise use cases, running in production at scale
